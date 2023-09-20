@@ -81,6 +81,18 @@ The easiest way is to add to a [.gitignore file.](https://git-scm.com/docs/gitig
 <br>
 
 - Commit and push your application to the GitHub repository.
+  
+  <img width="1512" alt="Screenshot 2023-09-20 at 7 01 24 AM" src="https://github.com/peterbyao/first-microservice/assets/42585479/9ee75900-9a12-413a-8a79-13891cac0ee1">
+  
+<img width="1512" alt="Screenshot 2023-09-20 at 7 05 13 AM" src="https://github.com/peterbyao/first-microservice/assets/42585479/50d10ada-237a-45ca-b285-f9224a363644">
+
+<img width="1512" alt="Screenshot 2023-09-20 at 8 24 45 AM" src="https://github.com/peterbyao/first-microservice/assets/42585479/f7984acf-550f-4ddd-b999-0eb7e422f714">
+
+<img width="1512" alt="Screenshot 2023-09-20 at 8 25 01 AM" src="https://github.com/peterbyao/first-microservice/assets/42585479/92aac3ed-6940-4480-a8db-d766d9cf01ba">
+
+<img width="1512" alt="Screenshot 2023-09-20 at 8 30 18 AM" src="https://github.com/peterbyao/first-microservice/assets/42585479/1c2e4a6b-788d-48d0-88f5-55798ed7d228">
+
+
 
 
 - You have completed the first part of the initial assignment.
